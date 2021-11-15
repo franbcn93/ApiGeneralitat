@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Para ver el resultado del projecto... [Haz click aquí](https://franbcn93.github.io/frasesBreakingBad).
+Para ver el resultado del projecto... [Haz click aquí](https://franbcn93.github.io/ApiGeneralitat).
 
 ## Available Scripts
 
