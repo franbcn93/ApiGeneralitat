@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/franbcn93/ApiGeneralitat/static/css/main.ec0e62d6.chunk.css",
+    "main.js": "/franbcn93/ApiGeneralitat/static/js/main.f9858adf.chunk.js",
+    "main.js.map": "/franbcn93/ApiGeneralitat/static/js/main.f9858adf.chunk.js.map",
+    "runtime-main.js": "/franbcn93/ApiGeneralitat/static/js/runtime-main.5860b85e.js",
+    "runtime-main.js.map": "/franbcn93/ApiGeneralitat/static/js/runtime-main.5860b85e.js.map",
+    "static/js/2.bbfcdfe3.chunk.js": "/franbcn93/ApiGeneralitat/static/js/2.bbfcdfe3.chunk.js",
+    "static/js/2.bbfcdfe3.chunk.js.map": "/franbcn93/ApiGeneralitat/static/js/2.bbfcdfe3.chunk.js.map",
+    "static/js/3.1c68b9fc.chunk.js": "/franbcn93/ApiGeneralitat/static/js/3.1c68b9fc.chunk.js",
+    "static/js/3.1c68b9fc.chunk.js.map": "/franbcn93/ApiGeneralitat/static/js/3.1c68b9fc.chunk.js.map",
+    "index.html": "/franbcn93/ApiGeneralitat/index.html",
+    "static/css/main.ec0e62d6.chunk.css.map": "/franbcn93/ApiGeneralitat/static/css/main.ec0e62d6.chunk.css.map",
+    "static/js/2.bbfcdfe3.chunk.js.LICENSE.txt": "/franbcn93/ApiGeneralitat/static/js/2.bbfcdfe3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/franbcn93/ApiGeneralitat/static/media/Grease.4d38b583.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5860b85e.js",
+    "static/js/2.bbfcdfe3.chunk.js",
+    "static/css/main.ec0e62d6.chunk.css",
+    "static/js/main.f9858adf.chunk.js"
+  ]
+}
